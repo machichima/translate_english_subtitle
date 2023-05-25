@@ -1,6 +1,10 @@
 # translate_english_subtitle
 
 ## 簡介 Description
+Demo link: https://youtu.be/MAchR7DgmL0
+
+Press keyboard to capture the word. Use web crawler to search for the word and show with a clean interface. Users can save their words into excel.
+
 執行程式後按下鍵盤特定鍵開啟擷取功能，此時能將要搜尋的單字用滑鼠框起來，確認該單字後程式便會使用爬蟲搜尋該單字，並使用GUI頁面進行顯示。可將搜尋到的單字紀錄到excel中方便日後進行複習。
 
 ## 使用套件
